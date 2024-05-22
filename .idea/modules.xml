@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L2 Encapsulation/Encapsulation - Exercises/Encapsulation - Exercises.iml" filepath="$PROJECT_DIR$/L2 Encapsulation/Encapsulation - Exercises/Encapsulation - Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3 Inheritance/Inheritance - Exercises/Inheritance - Exercises.iml" filepath="$PROJECT_DIR$/L3 Inheritance/Inheritance - Exercises/Inheritance - Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3 Inheritance/Inheritance - Lab/Inheritance - Lab.iml" filepath="$PROJECT_DIR$/L3 Inheritance/Inheritance - Lab/Inheritance - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4 Interfaces and Abstraction/Interfaces and Abstraction - Exercises/Interfaces and Abstraction - Exercises.iml" filepath="$PROJECT_DIR$/L4 Interfaces and Abstraction/Interfaces and Abstraction - Exercises/Interfaces and Abstraction - Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4 Interfaces and Abstraction/Interfaces and Abstraction - Lab/Interfaces and Abstraction - Lab.iml" filepath="$PROJECT_DIR$/L4 Interfaces and Abstraction/Interfaces and Abstraction - Lab/Interfaces and Abstraction - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-Exercises.iml" filepath="$PROJECT_DIR$/Java-OOP-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L5 Polymorphism/Polymorphism - Exercises/Polymorphism - Exercises.iml" filepath="$PROJECT_DIR$/L5 Polymorphism/Polymorphism - Exercises/Polymorphism - Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L5 Polymorphism/Polymorphism - Lab/Polymorphism - Lab.iml" filepath="$PROJECT_DIR$/L5 Polymorphism/Polymorphism - Lab/Polymorphism - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L6 Reflection/Reflection - Exercises/Reflection - Exercises.iml" filepath="$PROJECT_DIR$/L6 Reflection/Reflection - Exercises/Reflection - Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L6 Reflection/Reflection - Lab/Reflection - Lab.iml" filepath="$PROJECT_DIR$/L6 Reflection/Reflection - Lab/Reflection - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1 Working with Abstraction/Working with Abstraction - Exercise/Working with Abstraction - Exercise.iml" filepath="$PROJECT_DIR$/L1 Working with Abstraction/Working with Abstraction - Exercise/Working with Abstraction - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1 Working with Abstraction/Working with Abstraction - Lab/Working with Abstraction - Lab.iml" filepath="$PROJECT_DIR$/L1 Working with Abstraction/Working with Abstraction - Lab/Working with Abstraction - Lab.iml" />
+    </modules>
+  </component>
+</project>
